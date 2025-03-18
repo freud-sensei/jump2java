@@ -1,4 +1,5 @@
 
+
 // public: 클래스명과 파일명이 같으면, 관례상 class 앞에 public을 붙임
 public class Code0101 {
     // public: 누구나 main 메서드에 접근할 수 있음
