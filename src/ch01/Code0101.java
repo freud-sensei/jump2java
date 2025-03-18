@@ -1,5 +1,6 @@
+
 // public: 클래스명과 파일명이 같으면, 관례상 class 앞에 public을 붙임
-public class HelloWorld {
+public class Code0101 {
     // public: 누구나 main 메서드에 접근할 수 있음
     // static: main 메서드는 인스턴스를 생성하지 않아도 실행할 수 있음
     // void: main 메서드의 리턴 값이 없음
